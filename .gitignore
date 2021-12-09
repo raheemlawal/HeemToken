@@ -15,6 +15,7 @@ build
 
 # misc
 /client/.DS_Store
+.DS_Store
 .env
 /client/.env
 /client/.env.local
