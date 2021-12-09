@@ -1,0 +1,18 @@
+.socialmedia-bar{
+    background-color: yellow;
+    height: 5vh;
+}
+a{
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.twittersocial:hover, .discordsocial:hover{
+    color: white
+}
+.twittersocial{
+    color: black;
+}
+.discordsocial{
+    color: black;
+}

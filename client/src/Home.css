@@ -1,0 +1,220 @@
+#home{
+    background-color: yellow;
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#how-to-buy{
+    background-color: yellow;
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+#tokenomics{
+    background-color: yellow;
+    min-height: 100vh;
+    min-width: 100vw;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#disclosure{
+    background-color: yellow;
+    min-height: 100vh;
+    min-width: 100vw;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.main-row{
+    max-width: 100%;
+    display: flex;
+}
+.main-row2{ 
+}
+.main-row3{
+}
+.main-row4{
+    height: 50vh;
+    width: 50vw;
+}
+#token-col{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+#disclosure-col{
+    height: 50vh;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.big-title{
+    color: black;
+    font-size: 12vh;
+    font-weight: 900;
+}
+.howtobuy-title{
+    color: black;
+    font-size: 10vh;
+    font-weight: 900;
+    margin-bottom: 5vh;
+}
+.tokenomics-title{
+    color: black;
+    font-size: 6vw;
+    font-weight: 900;
+    margin-bottom: 5vh;
+}
+#disclosure-title{
+    color: black;
+    font-size: 12vh;
+    font-weight: 900;
+    margin-bottom: 3vh;
+}
+#social-row{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#left-col{ 
+    display: flex; 
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+#right-col{
+    display: flex; 
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+#right-col-token{
+    display: flex; 
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+#left-col-token{
+    display: flex; 
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+#a{
+    text-align: center;
+    align-items: center;
+    display: flex; 
+    flex-direction: column;
+}
+#b{
+    text-align: center;
+    align-items: center;
+    display: flex; 
+    flex-direction: column;
+}
+.pmain{
+    font-size: 2.5vh;
+}
+.supply-title{
+    font-size: 3vw;
+    font-weight: 600;
+    margin-bottom: 5vh;
+}
+.tax-title{
+    font-size: 3vh;
+    font-weight: 600;
+}
+#tokenomics-button{
+    width: 30vh;
+    height: 5vh;
+    color: white;
+    background-color: black;
+    border-color: black;
+    margin-top: 3vh;
+    font-size: 2vh;
+    font-weight: 900;
+    justify-content: center;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+}
+#howtobuy-button{
+    margin-top: 5vh;
+    width: 30vh;
+    height: 5vh;
+    color: white;
+    background-color: black;
+    border-color: black;
+    font-size: 2vh;
+    font-weight: 900;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+}
+#disclosure-button{
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    width: 30vh;
+    height: 5vh;
+    color: white;
+    background-color: black;
+    border-color: black;
+    font-size: 2vh;
+    font-weight: 900;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+}
+#viewprice-button{
+    margin-top: 3vh;
+    width: 30vh;
+    height: 5vh;
+    color: white;
+    background-color: black;
+    border-color: black;
+    font-size: 2vh;
+    font-weight: 900;
+    justify-content: center;
+}
+h5{
+    padding-bottom: 10vh;
+}
+#head1,#head2,#head3,#head4{
+    font-weight: 900;
+}
+.rewards-title{
+    margin: 4vh;
+    font-weight: 500;
+}
+.liquidity-title{
+    margin: 4vh;
+    font-weight: 500;
+}
+.coin-distribution-title{
+    margin-top: 7vh;
+}
+.func-title{
+    margin: 4vh;
+    font-weight: 500;
+}
+.contract-addy{
+    font-size: calc(1vw + 3px);
+}
