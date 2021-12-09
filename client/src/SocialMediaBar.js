@@ -10,7 +10,7 @@ function SocialMediaBar() {
             <Nav className="mx-auto">
                 <Row id = "botrow">
                     <div>
-                        <a href="https://www.twitter.com/"
+                        <a href="https://twitter.com/HeemToken"
                             className="twittersocial">
                             <FontAwesomeIcon icon={faTwitter} size="2x" />
                         </a>
