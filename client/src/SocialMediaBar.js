@@ -2,7 +2,7 @@ import './SocialMediaBar.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import {Nav,Navbar,Row} from 'react-bootstrap';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {faTwitter,faDiscord} from "@fortawesome/free-brands-svg-icons";
+import {faTwitter} from "@fortawesome/free-brands-svg-icons";
 
 function SocialMediaBar() {
     return (
