@@ -1,13 +1,28 @@
-# HeemToken
+# HeemToken!
 
-Cryptocurrency that can be traded with real money!
+A decentralized coin focused on revolutionizing the crypto market! HeemToken can be traded with real money!
 
-Full Stack Decentralized Application
+![Screenshot](d.png)
 
-Technologies Used : React, Netlify, Truffle, Solidity
+## Deployment
 
-Token Website: http://heemtoken.com/
+Visit https://heemtoken.com
 
-Token Twitter : https://twitter.com/HeemToken
+## Addition Sites
+
+Twitter : https://twitter.com/HeemToken
 
 Token BSCScan : https://bscscan.com/token/0x361725d9041f6044c7ec16adfcb72237b4c047af
+
+Token Live Price/Economics : https://poocoin.app/tokens/0x361725d9041f6044c7ec16adfcb72237b4c047af
+
+## Built With
+
+  - Solidity
+  - Javascript (React/React-Bootstrap)
+  - Truffle
+  - Netlify
+
+## Authors
+
+  - **Raheem Lawal** 
